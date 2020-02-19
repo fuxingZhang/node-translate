@@ -1,0 +1,33 @@
+{
+  "name": "@zhangfuxing/translate",
+  "version": "1.0.1",
+  "description": "Command line translation",
+  "main": "index.js",
+  "bin": {
+    "tran": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuxingZhang/node-translate.git"
+  },
+  "keywords": [
+    "translate",
+    "translation",
+    "terminal",
+    "Command line",
+    "node"
+  ],
+  "author": "Zhang Fu Xing <502545703@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuxingZhang/node-translate/issues"
+  },
+  "homepage": "https://github.com/fuxingZhang/node-translate#readme",
+  "dependencies": {
+    "@zhangfuxing/colors": "^1.2.1",
+    "@zhangfuxing/http": "^4.1.0"
+  }
+}
