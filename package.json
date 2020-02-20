@@ -28,6 +28,6 @@
   "homepage": "https://github.com/fuxingZhang/node-translate#readme",
   "dependencies": {
     "@zhangfuxing/colors": "^1.2.1",
-    "@zhangfuxing/http": "^4.1.0"
+    "@zhangfuxing/http": "^4.3.0"
   }
 }
